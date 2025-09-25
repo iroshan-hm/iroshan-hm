@@ -29,7 +29,6 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iroshan-hm&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iroshan-hm&layout=compact&theme=radical)
 
@@ -37,9 +36,8 @@
 ---
 
 ### 🌍 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/)  
-- 📧 Email: your.email@example.com  
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/iroshanhm/)  
+- 📧 Email: iroshanhm@gmail.com  
 
 ---
-⭐️ From [iroshanhm](https://github.com/iroshanhm)
+⭐️ From [iroshanhm](https://github.com/iroshan-hm)
