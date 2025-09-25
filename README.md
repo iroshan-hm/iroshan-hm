@@ -21,7 +21,7 @@
 - Flutter, Dart  
 
 **Databases**
-- MySQL, PostgreSQL, H2  
+- MSSql, MySQL, PostgreSQL, H2  
 
 **Tools**
 - Git, Docker, Jenkins, Maven, Ant, VS Code, IntelliJ IDEA, Android Studio  
