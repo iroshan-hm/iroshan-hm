@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Iroshan Herath  
 
-💻 **Software Engineer | Java & Spring Boot Developer | React & Flutter Enthusiast**
+💻 **Software Engineer | Java & Spring Boot Developer | Laravel, React & Flutter Enthusiast**
 
 ---
 
@@ -29,9 +29,10 @@
 ---
 
 ### 📊 GitHub Stats
-![Iroshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=iroshanhm&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iroshanhm&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
 
 ---
 
